@@ -33,8 +33,7 @@ For Hardware:
 - Tools Required: Web browser (Chrome/Microsoft Edge), MySQL Server
 
 ### Implementation
-For Software:
-# Installation
+For Software: Installation
 -git clone https://github.com/samvrtha/tink-her-hack-3-temp.git
 ( Clone the repository)
 
