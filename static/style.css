@@ -1,0 +1,101 @@
+/* General Styles */
+body {
+    font-family: Algerian;
+    margin: 0;
+    padding: 0;
+    color: #0d0e07;
+}
+
+header {
+    background-color: #a4ea6b;
+    color: rgb(61, 14, 229);
+    padding: 10px 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav a {
+    color: rgb(1, 4, 4);
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #ebf4f0;
+    color: rgb(74, 19, 239);
+    text-align: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Form Styles */
+#form-section {
+    background-color: rgb(231, 231, 233);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#search-form {
+    display: flex;
+    gap: 10px;
+}
+
+#search-form input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#search-form button {
+    padding: 10px 20px;
+    background-color: #28f286;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#search-form button:hover {
+    background-color: #5de4f3;
+}
+
+/* Colleges List Styles */
+#colleges-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.college-card {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.college-card h3 {
+    margin: 0 0 10px;
+}
+
+.college-card p {
+    margin: 5px 0;
+}
