@@ -1,99 +1,81 @@
-# [Project Name] 🎯
+# UNIQUEST 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: SHS
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
-
+- Member 1: Samvrtha Vichithran - College of Engineering, Attingal
+- Member 2: B.S Haripriya - College of Engineering, Attingal
+- Member 3: Sankeerthana Dileep - College of Engineering, Attingal
 ### Hosted Project Link
-[mention your project hosted project link here]
+ http://127.0.0.1:5000
 
 ### Project Description
-[2-3 lines about what your project does]
-
+UniQuest is a college information platform that helps students explore and compare colleges based on location, courses offered, fees, rankings, and facilities. With a user-friendly search feature, it provides easy access to essential details and direct website links, simplifying the decision-making process for students.
 ### The Problem statement
-[What ridiculous problem are you solving?]
-
+Kerala’s 12th-grade students struggle to find reliable, up-to-date college information, making selection overwhelming. With thousands of options, comparing courses, fees, facilities, and reputation is difficult due to the lack of a centralized platform. This leads to confusion, uncertainty, and missed opportunities. A solution is needed to simplify the process by providing accurate, accessible, and personalized information, helping students make confident, well-informed decisions about their future.
 ### The Solution
-[How are you solving it? Keep it fun!]
+We are developing a college information website that helps students explore colleges, view detailed information, and contribute suggestions to improve the database. Using Flask, MySQL, and frontend technologies, we built a dynamic and user-friendly platform that allows easy access to college details. Instead of strictly dividing tasks, we worked collaboratively, sharing responsibilities across backend, frontend, and project management to ensure smooth integration and efficient development. Our goal is to create a centralized, interactive, and scalable platform that makes the college selection process easier and more informative for students.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages Used: Python, HTML, CSS, JavaScript
+- Frameworks Used: Flask
+- Libraries Used: Flask (for backend and routing), MySQL Connector (for database interaction), Bootstrap (for frontend styling), jQuery (for frontend interactivity)
+- Tools Used: MySQL (Database), VS Code (Code Editor)
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Main Components: Laptop with internet access
+- Specifications: Minimum 4GB RAM, 10GB free storage, Python 3.8+ installed
+- Tools Required: Web browser (Chrome/Microsoft Edge), MySQL Server
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+-git clone https://github.com/samvrtha/tink-her-hack-3-temp.git
+( Clone the repository)
+
+-cd <Tinker hack>
+(Navigate to project directory)
+
+-python -m venv venv
+(Create and activate a virtual environment)
+
+-venv\Scripts\activate 
+( For Windows)
+
+-pip install -r requirements.txt
+(Install dependencies)
 
 # Run
-[commands]
+- python app.py
+(Start the Flask server)
+- http://127.0.0.1:5000/
+(Open the web application in the browser)
 
 ### Project Documentation
-For Software:
+For Software: UNIQUEST – College Information Portal is a web-based platform designed to simplify college selection for Kerala’s 12th-grade students by offering centralized, accurate information. Addressing the lack of reliable resources, it enables users to search/filter colleges by name, location, fees, ranking, and facilities, with detailed profiles covering courses, fees, websites, and infrastructure. Built with **Flask (Python)** for backend logic, **MySQL** for data storage, and **HTML/CSS/JavaScript** for responsive frontend, the project follows a phased implementation: research, development, testing, and deployment. Future enhancements include user reviews, AI-driven chatbots, and scholarship integration. Team roles include backend/frontend developers and a project manager ensuring seamless feature execution and data accuracy.
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![Screenshot 2025-02-09 041919](https://github.com/user-attachments/assets/fdeb527e-a98c-4c79-bb84-5ed5d5100691)
+This image depicts the home page of our website which shows all the institutes in the database. 
+![Screenshot 2025-02-09 042025](https://github.com/user-attachments/assets/17155f79-08cd-49f6-9b27-5f0e2fe7a470)
+This image shows the details of this website. 
+![Screenshot 2025-02-09 091342](https://github.com/user-attachments/assets/7694ccd6-90e5-4297-ad25-f2b13ab68423)
+This image gives the search results for 'Thrissur'.
+![Screenshot 2025-02-09 092016](https://github.com/user-attachments/assets/ff97a616-be29-42e6-b001-b4e47614a5a1)
+This image provides the search results for 'Architecture'.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://youtu.be/Ij9YiZrscM8
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+Our team worked collaboratively on every aspect of the project, from designing the frontend and developing the backend to integrating the database and refining the user experience, without strictly dividing roles. Instead, we took a flexible approach where all three of us contributed to frontend development, backend logic, and overall project design.
 ---
 Made with ❤️ at TinkerHub
