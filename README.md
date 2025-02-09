@@ -35,16 +35,20 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-# Clone the repository
-git clone <repo-link>
-# Navigate to project directory
-cd <project-folder>
-# Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate  # For Mac/Linux
-venv\Scripts\activate  # For Windows
-# Install dependencies
-pip install -r requirements.txt
+-git clone https://github.com/samvrtha/tink-her-hack-3-temp.git
+( Clone the repository)
+
+-cd <Tinker hack>
+(Navigate to project directory)
+
+-python -m venv venv
+(Create and activate a virtual environment)
+
+-venv\Scripts\activate 
+( For Windows)
+
+-pip install -r requirements.txt
+(Install dependencies)
 
 # Run
 - python app.py
@@ -66,44 +70,12 @@ This image gives the search results for 'Thrissur'.
 ![Screenshot 2025-02-09 092016](https://github.com/user-attachments/assets/ff97a616-be29-42e6-b001-b4e47614a5a1)
 This image provides the search results for 'Architecture'.
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://youtu.be/Ij9YiZrscM8
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+Our team worked collaboratively on every aspect of the project, from designing the frontend and developing the backend to integrating the database and refining the user experience, without strictly dividing roles. Instead, we took a flexible approach where all three of us contributed to frontend development, backend logic, and overall project design.
 ---
 Made with ❤️ at TinkerHub
